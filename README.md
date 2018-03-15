@@ -1,10 +1,10 @@
 # intruisionDetectionSystem
-This is our Master thesis which ic titled:
+Here is the description of our Master thesis, which is titled:
 Analysis of Network Intrusion Detection System (NIDS) with Machine Learning
 
 We are going to detect zero day attack using reinforcement learning algorithm.
 
-Here we will use following algorithm to detect DdoS , Probe , R2L  and spoofing attack.
+Here we will use following algorithm to detect DDoS , Probe , R2L (remote-to-local) and spoofing attack.
 1.Deep Reinforcement Learning
 2.Q learning
 3.Deep Q Network
